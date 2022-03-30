@@ -1,6 +1,8 @@
 name: speed_test
 description: Test your network connection speed using speedtest.net from the CLI
 version: 2.0.0
+homepage: https://github.com/Abdusin/dart-speed-test
+repository: https://github.com/Abdusin/dart-speed-test
 
 environment:
   sdk: '>=2.15.0 <3.0.0'
