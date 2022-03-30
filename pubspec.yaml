@@ -16,4 +16,4 @@ dependencies:
   shell: ^2.0.0
 
 executables:
-  speed_test: speedtest
+  speedtest: speed_test

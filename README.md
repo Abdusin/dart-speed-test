@@ -16,4 +16,4 @@ pub global activate --source git https://github.com/Abdusin/dart-speed-test.git
 
 ```
 $ speedtest
-```"# dart-speed-test" 
+```
