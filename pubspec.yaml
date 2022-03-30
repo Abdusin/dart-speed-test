@@ -1,0 +1,19 @@
+name: speed_test
+description: Test your network connection speed using speedtest.net from the CLI
+version: 1.0.0
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
+
+dependencies: 
+  archive: ^3.3.0
+  console: ^4.1.0
+  http: ^0.13.4
+  shell: ^2.0.0
+
+executables:
+  speed_test: speedtest
