@@ -1,6 +1,6 @@
 name: speed_test
 description: Test your network connection speed using speedtest.net from the CLI
-version: 1.0.0
+version: 2.0.0
 
 environment:
   sdk: '>=2.15.0 <3.0.0'

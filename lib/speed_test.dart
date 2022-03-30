@@ -51,20 +51,6 @@ Map<String, String> getOperatingSystemPreferences() {
   }
 }
 
-var example = '''
-   Speedtest by Ookla
-
-     Server: COMNET DATACENTER ISTANBUL - Istanbul (id = 34273)
-        ISP: Vayfi Bilgi Teknolojileri A.S.
-    Latency:     5.78 ms   (0.08 ms jitter)
-
-   Download:    87.38 Mbps (data used: 112.3 MB)                               
-
-     Upload:     7.83 Mbps (data used: 8.6 MB)                               
-Packet Loss:     0.0%
- Result URL: https://www.speedtest.net/result/c/b7c7d315-c237-4b64-a475-ebfd61924187
- ''';
-
 class Response {
   final String server;
   final String isp;
